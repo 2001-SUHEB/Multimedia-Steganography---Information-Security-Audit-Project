@@ -1,5 +1,4 @@
-# Information-Security-project
-Multimedia Steganography
+ 
 
 # Multimedia Steganography - Information Security Audit Project
 
